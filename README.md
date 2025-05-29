@@ -19,7 +19,7 @@ The Excel file must contain the following columns:
 
 ---
 
-**## ⚙ System Capabilities**
+**##  System Capabilities**
 
 ### 1.  Identify Top Denied CPT Codes
 - Rank CPT codes based on number of denials  
@@ -58,11 +58,11 @@ Bar charts displayed in **Streamlit**:
 **##  Final Output (Streamlit App)**
 
 ### Upload Excel File  
-➡ Get cleaned & enriched data  
-➡ See ML predictions  
-➡ View graphical dashboards  
-➡ Append data to existing file  
-➡ Export summary or prediction results
+- Get cleaned & enriched data  
+- See ML predictions  
+- View graphical dashboards  
+- Append data to existing file  
+- Export summary or prediction results
 
 ---
 
