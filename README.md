@@ -72,14 +72,16 @@ Bar charts displayed in **Streamlit**:
 - Generate ~500 balanced records using SMOTE-NC  
 - Handles categorical and numeric fields together
 
-###  Step 2: Excel Data Upload and Merge
+###  Step 2: Streamlit Web App
+A dashboard to:
+- Upload → Analyze → Predict → Recommend
+-
+###  Step 3: Excel Data Upload and Merge
 - User uploads Excel file  
 - File is cleaned and validated  
 - Appended to a historical master dataset
 
-###  Step 3: Streamlit Web App
-A dashboard to:
-- Upload → Analyze → Predict → Recommend
+
 
 ###  Step 4: Streamlit Interface
 
