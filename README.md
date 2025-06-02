@@ -100,6 +100,7 @@ A dashboard to:
 - Clean currency, drop empty rows  
 - Normalize column names  
 - Append to existing master dataset
+- click run model button to run the denail classification only for attached files
 
 ###  Run Pipeline and Show Results
 
